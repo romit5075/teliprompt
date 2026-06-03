@@ -1,0 +1,6 @@
+{
+  "name": "Fusion Media",
+  "description": "A premium, aesthetic teleprompter designed for creators, coaches, influencers, and business owners. Speak naturally, record confidently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
